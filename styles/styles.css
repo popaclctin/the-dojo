@@ -1,0 +1,14 @@
+html {
+  background-color: rgb(66, 146, 238);
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 4.5 em;
+  text-align: center;
+  font-style: italic;
+  letter-spacing: 3px;
+  color: white;
+  text-transform: uppercase;
+  text-shadow: 4px 4px 4px black;
+}
